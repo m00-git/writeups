@@ -12,6 +12,12 @@ So these little challenges will be helping you a lot! Have fun!
 
 # Walkthrough
 
+This walkthrough will follow this format:
+<details> 
+  <summary>Hint: Hint here</summary>
+  answer to question here
+</details>
+----+++++============================================----+++++
 1-1 "Famous port scanner. Can you name it?"
 <details> 
   <summary>Network Mapping Tool</summary>

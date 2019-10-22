@@ -9,7 +9,9 @@ Getting better at using "Search Engines" in order to find the right answers in l
 So these little challenges will be helping you a lot! Have fun!
 
 ~/w4tchd0g
-***Walkthrough:***
+
+# Walkthrough
+
 1-1 "Famous port scanner. Can you name it?"
 <details> 
   <summary>Network Mapping Tool</summary>

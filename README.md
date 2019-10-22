@@ -16,6 +16,7 @@ So these little challenges will be helping you a lot! Have fun!
 # Walkthrough
 
 This walkthrough will follow this format:
+
 1-X "Question here"
 <details> 
   <summary>Hint: Hint here</summary>

@@ -29,6 +29,7 @@ This walkthrough will follow this format:
   <summary>Hint: Network Mapping Tool</summary>
   nmap
 </details>
+.
 
 
 
@@ -37,6 +38,7 @@ This walkthrough will follow this format:
   <summary>Hint: You wont find this kind of shark in the wild.</summary>
   wireshark
 </details>
+.
 
 
 
@@ -45,6 +47,7 @@ This walkthrough will follow this format:
   <summary>Hint: A database of exploits. What could it be called?</summary>
   exploit-db
 </details>
+.
 
 
 
@@ -53,6 +56,7 @@ This walkthrough will follow this format:
   <summary>Hint: You can find "google dorks" off the previous answers website. It's a menu item.</summary>
   ghdb
 </details>
+.
 
 
 
@@ -61,6 +65,7 @@ This walkthrough will follow this format:
   <summary>Hint: Making it overflow with data....</summary>
   buffer overflow
 </details>
+.
 
 
 
@@ -69,6 +74,7 @@ This walkthrough will follow this format:
   <summary>Hint: something day....</summary>
   0day
 </details>
+.
 
 
 
@@ -77,6 +83,7 @@ This walkthrough will follow this format:
   <summary>Hint: obtain the release of (data) by making a payment demanded.</summary>
   ransomware
 </details>
+.
 
 
 
@@ -85,6 +92,7 @@ This walkthrough will follow this format:
   <summary>Hint: A network of machines connected to a command and control server..</summary>
   botnet
 </details>
+.
 
 
 
@@ -93,6 +101,7 @@ This walkthrough will follow this format:
   <summary>Hint: Googling "Top 10 Web and Movile Vulnerabilities" should help...</summary>
   owasp
 </details>
+.
 
 
 
@@ -101,6 +110,7 @@ This walkthrough will follow this format:
   <summary>Hint: Googling "worm which targeted SCADA environments" should help...</summary>
   stuxnet
 </details>
+.
 
 
 
@@ -109,6 +119,7 @@ This walkthrough will follow this format:
   <summary>Hint: Partly coming from the greek word steganos</summary>
   steganography
 </details>
+.
 
 
 
@@ -117,6 +128,7 @@ This walkthrough will follow this format:
   <summary>Hint: Whats the the process of converting information or data into a code?</summary>
   encryption
 </details>
+.
 
 
 
@@ -125,6 +137,7 @@ This walkthrough will follow this format:
   <summary>Hint: Googling "How to Extract Metadata from an Image" should help...</summary>
   exiftool
 </details>
+.
 
 
 
@@ -133,6 +146,7 @@ This walkthrough will follow this format:
   <summary>Hint: https://i.ytimg.com/vi/4h1V3DCml3I/maxresdefault.jpg</summary>
   burp suite
 </details>
+.
 
 
 
@@ -141,6 +155,7 @@ This walkthrough will follow this format:
   <summary>Hint: Googling "NSA Reverse Engineering Tool" should help...</summary>
   Ghidra
 </details>
+.
 
 
 

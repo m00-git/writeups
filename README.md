@@ -149,4 +149,3 @@ This walkthrough will follow this format:
   <summary>Hint: An open source objectively worse version of Burp Suite</summary>
   OWASP ZAP
 </details>
---------------------------------------------------------------------------
